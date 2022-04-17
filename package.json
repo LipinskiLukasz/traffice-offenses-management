@@ -1,0 +1,26 @@
+{
+  "name": "traffic-offense-system",
+  "version": "1.0.0",
+  "description": "This is course assignment project for Traffic Offense System",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.1-security",
+    "i18n": "^0.14.2",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}

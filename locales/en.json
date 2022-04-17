@@ -1,0 +1,12 @@
+{
+	"welcome_message": "Welcome to Traffic Offense Management System!",
+	"login": "login",
+	"username": "Username",
+	"password": "Password",
+	"name": "Name",
+	"email": "Email",
+	"location": "Location",
+	"offense": "Offense",
+	"submit": "Submit",
+	"addNew": "Add new offender"
+}

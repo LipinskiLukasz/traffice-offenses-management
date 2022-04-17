@@ -1,0 +1,8 @@
+.center {
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+    border: black;
+    border-style: solid;
+    padding: 20px;
+}
