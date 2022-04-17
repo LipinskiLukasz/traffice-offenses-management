@@ -8,5 +8,6 @@
 	"location": "Location",
 	"offense": "Offense",
 	"submit": "Submit",
-	"addNew": "Add new offender"
+	"addNew": "Add new offender",
+	"intro": "Traffic Offense Management System"
 }
