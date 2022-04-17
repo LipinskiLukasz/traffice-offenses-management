@@ -1,0 +1,14 @@
+  {
+  "welcome_message": "Witamy w systemie zarzadzania wykroczeniami drogowymi. ",
+	"login": "login",
+	"username": "uzytkownik",
+	"password": "Haslo",
+	"name": "Imie",
+	"email": "Email",
+	"location": "Localizacja",
+	"offense": "Wykroczenie",
+	"submit": "Zatwierdz",
+	"addNew": "Dodaj nowe wykroczenie",
+	"intro": "System zarzadzania wykroczeniami drogowymi"
+
+  }
