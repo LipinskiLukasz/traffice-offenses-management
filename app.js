@@ -10,7 +10,7 @@ const port = process.env.PORT || '3000';
 app.set("views", path.join(__dirname, "views"));
 
 i18n.configure({
-    locales: ['en', 'de'],
+    locales: ['en', 'de', 'pl'],
     directory: __dirname + '/locales',
     // change to 'de' in below line for visiting site in German language 
     defaultLocale: 'en'
