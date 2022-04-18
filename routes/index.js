@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const connection = require('../db/connection');
 const sgMail = require('@sendgrid/mail')
-sgMail.setApiKey('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');
+sgMail.setApiKey('API Key');
 
 router.get('/', (req, res) => {
     res.render('welcome');
